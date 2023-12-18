@@ -1,4 +1,4 @@
-Hi 👋 My name is Alireza
+Hi 👋 My name is Alireza.
 ========================
 
 Front-End Developer
@@ -6,7 +6,7 @@ Front-End Developer
 
 A frontend developer and designer on the path to full stack.
 
-* 🌍  I'm based in Frankfurt, germany
+* 🌍  I'm based in Frankfurt, Germany
 * ✉️  You can contact me at [itsalirjamali@gmail.com](mailto:itsalirjamali@gmail.com)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on interesting projects as a developer or designer

@@ -8,7 +8,8 @@ A frontend developer and designer on the path to full stack.
 
 * 🌍  I'm based in Frankfurt, Germany
 * ✉️  You can contact me at [itsalirjamali@gmail.com](mailto:itsalirjamali@gmail.com)
-* ✉️  My portfolio [itsalir.com]((https://itsalir.com/))
+* ✉️  My portfolio <a href="https://itsalir.com/" target="_blank">itsalir.com</a>
+
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on interesting projects as a developer or designer
 * ⚡  I can kick myself in the head

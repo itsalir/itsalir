@@ -12,7 +12,6 @@ A frontend developer and designer on the path to full stack.
 
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on interesting projects as a developer or designer
-* ⚡  I can kick myself in the head
 
 ### Skills
 
